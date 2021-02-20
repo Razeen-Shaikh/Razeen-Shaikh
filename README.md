@@ -9,8 +9,6 @@ Skills: REACT / Redux / JS / HTML / CSS / Node / Express / MongoDB
 - 💬 Ask me about React.JS. 
 - 📫 How to reach me: razeen9796@gmail.com 
 
-![GitHub metrics](https://metrics.lecoq.io/Razeen-Shaikh)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&show_icons=true&count_private=true)  
