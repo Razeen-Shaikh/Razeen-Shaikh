@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/Razeen-Shaikh)
 
-Skills: REACT / JS / HTML / CSS / Node / Express / MongoDB
+Skills: REACT / Redux / JS / HTML / CSS / Node / Express / MongoDB
 
 - 🔭 I’m currently working on React.JS. 
 - 🌱 I’m currently learning MERN Stack. 
@@ -18,5 +18,3 @@ Skills: REACT / JS / HTML / CSS / Node / Express / MongoDB
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Razeen-Shaikh)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Razeen-Shaikh)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Razeen-Shaikh)  
