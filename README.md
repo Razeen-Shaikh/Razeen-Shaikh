@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/Razeen-Shaikh)
 
-Skills: REACT / Redux / JS / HTML / CSS / Node / Express / MongoDB
+Skills: REACT / Redux / TS / JS / HTML / CSS / Node / Express / MongoDB / Material UI
 
 - 🔭  I’m currently working on React.JS. 
 - 🌱  I’m currently learning MERN Stack. 
