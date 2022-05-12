@@ -3,11 +3,10 @@
 
 Skills: REACT / Redux / TS / JS / HTML / CSS / Node / Express / MongoDB / Material UI
 
-- 🔭  I’m currently working on React.JS. 
+- 🔭  I’m currently working on ReactJS. 
 - 🌱  I’m currently learning MERN Stack. 
-- 🤔  I’m looking for help with TypeScript. 
-- 💬  Ask me about React.JS. 
-- 📫  How to reach me: razeen9796@gmail.com
+- 🤔  I’m looking for help with Test Case Writing. 
+- 💬  Ask me about ReactJS.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Razeen-Shaikh)
 
