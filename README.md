@@ -10,6 +10,9 @@ Skills: REACT / Redux / TS / JS / HTML / CSS / Node / Express / MongoDB / Materi
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Razeen-Shaikh/Razeen-Shaikh/blob/master/devcard.svg" width="300" alt="Razeen's Dev Card"/></a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Razeen-Shaikh) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Razeen's github stats](https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&show_icons=true&theme=dracula&hide=stars,issues)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Razeen-Shaikh&theme=dracula&title=Commits,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Razeen-Shaikh&theme=dracula)
+
