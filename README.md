@@ -4,7 +4,7 @@
 Skills: REACT / Redux / TS / JS / HTML / CSS / Node / Express / MongoDB / Material UI
 
 - 🔭  I’m currently working on [Leetcode Problems](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode). 
-- 🌱  I’m currently learning [Problem Solving](https://github.com/Razeen-Shaikh/problem-solving).
+- 🌱  I’m currently learning [Problem Solving](https://github.com/Razeen-Shaikh/leetcode).
 - 🤔  I’m looking for help with Test Case Writing. 
 - 💬  Ask me about ReactJS.
 
