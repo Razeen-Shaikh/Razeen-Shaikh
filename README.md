@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/Razeen-Shaikh) ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRazeen-Shaikh1212%2Fhit-counter)
+![Profile views](https://gpvc.arturio.dev/Razeen-Shaikh)
 
 Skills: REACT / Redux / TS / JS / HTML / CSS / Node / Express / MongoDB / Material UI
 
