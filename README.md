@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Razeen-Shaikh&theme=dracula"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dracula">
 </p>
 
 
@@ -41,7 +41,7 @@
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Razeen-Shaikh&theme=dracula&title=Commits,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Razeen-Shaikh&theme=dracula) -->
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh) -->
 
 <!-- ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Razeen-Shaikh&theme=dracula) -->
 
