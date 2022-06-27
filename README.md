@@ -18,7 +18,9 @@
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dracula&date_format=j%20M%5B%20Y%5D"></a>&nbsp;&nbsp;
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dracula&date_format=j%20M%5B%20Y%5D"></a>
+</p>
+<p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=dracula"></a>
 </p>
 
