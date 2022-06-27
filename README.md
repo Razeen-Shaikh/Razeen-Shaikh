@@ -18,10 +18,10 @@
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dracula&date_format=j%20M%5B%20Y%5D"></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dark&date_format=j%20M%5B%20Y%5D"></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=dracula"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=dark"></a>
 </p>
 
 <!-- <h2 align="center">Recent Projects</h2>
