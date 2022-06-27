@@ -12,9 +12,9 @@
 <br>
 <p align="center">
   <a href="https://leetcode.com/razeenshaikh/">
-    <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0" width="450">
+    <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0" width="300">
   </a>&nbsp;&nbsp;
   <a href="#">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true" width="450">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true" width="300">
   </a>
 </p>
