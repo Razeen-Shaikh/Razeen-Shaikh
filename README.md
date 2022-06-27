@@ -16,45 +16,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
 </p>
 
-
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dark&date_format=j%20M%5B%20Y%5D"></a>
 </p>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=dark"></a>
-</p>
-
-<!-- <h2 align="center">Recent Projects</h2>
-
-<details>
-  <summary>Recent Projects</summary>
-</details> -->
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
-
-
-<!-- ![Profile views](https://gpvc.arturio.dev/Razeen-Shaikh) -->
-<!-- <div>
-  <p>Skills: REACT / Redux / TS / JS / HTML / CSS / Node / Express / MongoDB / Material UI</p>
-  
-<ul>
-  <li> 🔭  I’m currently working on <a href="https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode">Leetcode Problems</a></li>
-  <li> 🌱  I’m currently learning [Problem Solving](https://github.com/Razeen-Shaikh/leetcode).</li>
-  <li> 🤔  I’m looking for help with Test Case Writing.</li>
-  <li> 💬  Ask me about ReactJS.</li>
-  </ul>
-</div>
-
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  -->
-<!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Razeen-Shaikh/Razeen-Shaikh/blob/master/devcard.svg" width="210" alt="Razeen's Dev Card"/></a> -->
-<!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Razeen-Shaikh&theme=dracula&title=Commits,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh) -->
-
-<!-- ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Razeen-Shaikh&theme=dracula) -->
-
-
