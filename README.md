@@ -15,6 +15,6 @@
     <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0" width="350">
   </a>&nbsp;&nbsp;
   <a href="#">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true" width="350">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=Razeen-Shaikh&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true" width="350">
   </a>
 </p>
