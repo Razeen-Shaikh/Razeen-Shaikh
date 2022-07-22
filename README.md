@@ -10,7 +10,7 @@
   </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
 </p>
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">TECH STACK</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">&nbsp;&nbsp;
@@ -28,9 +28,6 @@
 <br>
 <p align="center">
   <a href="https://leetcode.com/razeenshaikh/">
-    <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0" width="350">
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Razeen-Shaikh&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true" width="350">
+    <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0&ext=activity">
   </a>
 </p>
