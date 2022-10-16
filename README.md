@@ -28,6 +28,6 @@
 <br>
 <p align="center">
   <a href="https://leetcode.com/razeenshaikh/">
-    <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0&ext=activity">
+    <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0&ext=heatmap">
   </a>
 </p>
