@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I am Razeen <img src="https://gpvc.arturio.dev/Razeen-Shaikh"></h1>
+<h1 align="center">Hi there 👋 I am Razeen</h1>
 <br>
 <h3 align="center">A Full Stack Developer 👩‍💻 </h3>
 <p align="center">
