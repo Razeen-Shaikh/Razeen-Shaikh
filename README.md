@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">A Full Stack Developer 👩‍💻 </h3>
 <p align="center">
-  <a target="_blank" href="https://razeen-shaikh.netlify.app">
+  <a target="_blank" href="https://iamrazeen.me">
     <img src="https://img.shields.io/badge/website-20232A?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio">
   </a>&nbsp;&nbsp;
   <a target="_blank" href="https://linkedin.com/in/iamrazeenshaikh">
