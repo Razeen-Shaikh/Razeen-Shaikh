@@ -28,6 +28,11 @@
 <br>
 <p align="center">
   <a href="https://leetcode.com/razeenshaikh/">
-    <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0&ext=activity&font=Shojumaru&theme=dark">
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Razeen-Shaikh&theme=highcontrast">
   </a>
 </p>
