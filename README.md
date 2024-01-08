@@ -36,14 +36,14 @@
     <img src="https://streak-stats.demolab.com/?user=Razeen-Shaikh&theme=highcontrast">
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&hide_progress=true&theme=dark&layout=donut-vertical">
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=dark">
   </a>
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=razeen&theme=dark&layout=compact">
