@@ -8,7 +8,16 @@
   <a target="_blank" href="https://linkedin.com/in/iamrazeenshaikh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
+</p>
+<h3 align="center">LEARNINGS</h3>
+<p align="center">
+  <a href="https://www.freecodecamp.org/razeen">
+      <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
+  </a>&nbsp;&nbsp;
+<!--   <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/razeen"> -->
+  <a href="https://leetcode.com/razeenshaikh/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
 </p>
 <h3 align="center">TECH STACK</h3>
 <p align="center">
