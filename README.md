@@ -14,10 +14,12 @@
   <a href="https://www.freecodecamp.org/razeen">
       <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
   </a>&nbsp;&nbsp;
-<!--   <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/razeen"> -->
   <a href="https://leetcode.com/razeenshaikh/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-  </a>
+  </a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.sololearn.com/en/profile/30940776">
+    <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="SoloLearn">
+  </a>&nbsp;&nbsp;
 </p>
 <h3 align="center">TECH STACK</h3>
 <p align="center">
