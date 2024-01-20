@@ -39,22 +39,22 @@
 <!-- <p align="center">
   <a href="https://app.daily.dev/razeenshaikh"><img src="https://api.daily.dev/devcards/6b866359b78e4f4fa8f94d70b97671c5.png?r=6ft" width="400" alt="Razeen Shaikh's Dev Card"/></a>
 </p> -->
-<!-- <p align="center">
+<p align="center">
   <a href="https://leetcode.com/razeenshaikh/">
     <img src="https://leetcard.jacoblin.cool/razeenshaikh?border=0&ext=heatmap&font=Shojumaru&theme=dark">
   </a>
-</p> -->
+</p>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Razeen-Shaikh&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&hide_progress=true&theme=dark&layout=donut-vertical">
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=dark&hide=stars,contribs">
   </a>
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=razeen&theme=dark&layout=compact">
