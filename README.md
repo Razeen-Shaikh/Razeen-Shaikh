@@ -20,6 +20,12 @@
   <a target="_blank" href="https://www.sololearn.com/en/profile/30940776">
     <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="SoloLearn">
   </a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.hackerearth.com/@razeen9796">
+    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="Hackerearth">
+  </a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.hackerrank.com/profile/razeen_m_shaikh">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>&nbsp;&nbsp;
 </p>
 <h3 align="center">TECH STACK</h3>
 <p align="center">
