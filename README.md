@@ -34,6 +34,9 @@
 </p>
 <h3 align="center">TECH STACK</h3>
 <p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,angular,aws,bitbucket,bootstrap,django,gcp,haskell,java,mysql,mongodb,nestjs,nextjs,nodejs,postman,prisma,redux,php,ruby,sass&perline=10" alt="My Skills"></a>
+</p>
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;&nbsp;
@@ -45,7 +48,7 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white alt="Jasmine">&nbsp;&nbsp;
-</p>
+</p> -->
 <br>
 <!-- <p align="center">
   <a href="https://app.daily.dev/razeenshaikh"><img src="https://api.daily.dev/devcards/6b866359b78e4f4fa8f94d70b97671c5.png?r=6ft" width="400" alt="Razeen Shaikh's Dev Card"/></a>
