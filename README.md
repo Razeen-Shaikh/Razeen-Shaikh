@@ -69,8 +69,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=dark&hide=stars,contribs">
   </a>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=razeen&theme=dark&layout=compact">
   </a>
-</p>
+</p> -->
