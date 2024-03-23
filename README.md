@@ -8,6 +8,7 @@
   <a target="_blank" href="https://linkedin.com/in/iamrazeenshaikh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;
+  
 </p>
 <h3 align="center">LEARNINGS</h3>
 <p align="center">
@@ -34,7 +35,7 @@
 </p>
 <h3 align="center">TECH STACK</h3>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,angular,aws,bitbucket,bootstrap,django,gcp,haskell,java,mysql,mongodb,nestjs,nextjs,nodejs,postman,prisma,redux,php,ruby,sass&perline=10" alt="My Skills"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,angular,aws,bitbucket,bootstrap,django,gcp,haskell,java,mysql,mongodb,nestjs,nextjs,nodejs,postman,prisma,redux,ruby,sass&perline=10" alt="My Skills"></a>
 </p>
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
