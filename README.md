@@ -35,7 +35,7 @@
 </p>
 <h3 align="center">TECH STACK</h3>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,angular,aws,bitbucket,bootstrap,django,gcp,haskell,java,mysql,mongodb,nestjs,nextjs,nodejs,postman,prisma,redux,ruby,sass&perline=10" alt="My Skills"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,angular,java,mysql,nodejs,postman,sass&perline=10" alt="My Skills"></a>
 </p>
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
@@ -60,11 +60,17 @@
   </a>
 </p> -->
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Razeen-Shaikh&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Razeen-Shaikh&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&hide_progress=true&theme=dark&layout=donut-vertical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=blue-green">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&theme=blue-green">
+</p>
+<!-- <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&hide_progress=true&theme=dark&layout=donut-vertical">
+</p> -->
 <!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&theme=dark&hide=stars,contribs">
