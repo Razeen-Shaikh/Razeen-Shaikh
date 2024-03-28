@@ -26,11 +26,14 @@
   </a>&nbsp;&nbsp;
 </p>
 <p align="center">
-  <a target="_blank" href="https://www.hackerrank.com/profile/razeen_m_shaikh">
+  <a href="https://www.hackerrank.com/profile/razeen_m_shaikh">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
   </a>&nbsp;&nbsp;
   <a href="https://exercism.org/profiles/Razeen-Shaikh">
     <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/razeen_shaikh">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars">
   </a>
 </p>
 <h3 align="center">TECH STACK</h3>
