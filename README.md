@@ -1,16 +1,6 @@
 <h1 align="center">Hi there 👋 I am Razeen</h1>
 <br>
-<h3 align="center">A Full Stack Developer 👩‍💻 </h3>
-<p align="center">
-  <a target="_blank" href="https://iamrazeen.me">
-    <img src="https://img.shields.io/badge/website-20232A?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio">
-  </a>&nbsp;&nbsp;
-  <a target="_blank" href="https://linkedin.com/in/iamrazeenshaikh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  
-</p>
-<h3 align="center">LEARNINGS</h3>
+<h3 align="center">A FULL-STACK DEVELOPER 👩‍💻 </h3>
 <p align="center">
   <a href="https://www.freecodecamp.org/razeen">
       <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
