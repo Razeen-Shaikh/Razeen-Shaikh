@@ -33,4 +33,7 @@
 [![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/30940776)&nbsp;&nbsp;
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Razeen-Shaikh)
 
+## WAKATIME
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
