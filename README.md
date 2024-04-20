@@ -1,6 +1,4 @@
-# Hi there 👋 I am Razeen
-
-### A FULL-STACK DEVELOPER 👩‍💻
+# Hi there 👋 I am Razeen 👩‍💻
 
 ## DSA
 
