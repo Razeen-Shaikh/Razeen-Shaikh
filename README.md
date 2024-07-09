@@ -36,13 +36,13 @@ Sunday                   249 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+msquare-admin-frontend   34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
