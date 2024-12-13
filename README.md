@@ -1,5 +1,6 @@
 # Hi there 👋 I am Razeen 👩‍💻
 
+*Full-stack developer with expertise in JavaScript, Node.js, React.js, and more. This GitHub profile showcases my coding challenges, real-world projects, and contributions to open-source. I focus on continuous learning and improving my skills to build efficient, scalable solutions. Feel free to explore my repositories!*
 
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/razeenshaikh/)&nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/razeen_m_shaikh)&nbsp;&nbsp;
