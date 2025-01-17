@@ -1,14 +1,31 @@
-# Hi there 👋 I am Razeen 👩‍💻
+# Hi there 👋 I'm Razeen 👩‍💻
 
-*Full-stack developer with expertise in JavaScript, Node.js, React.js, and more. This GitHub profile showcases my coding challenges, real-world projects, and contributions to open-source. I focus on continuous learning and improving my skills to build efficient, scalable solutions. Feel free to explore my repositories!*
+Welcome to my GitHub profile!  
 
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/razeenshaikh/)&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/razeen_m_shaikh)&nbsp;&nbsp;
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/razeen_shaikh)&nbsp;&nbsp;
-[![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/razeen)&nbsp;&nbsp;
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Razeen-Shaikh)
+I’m a **Full-Stack Developer** passionate about building efficient and scalable solutions. My expertise lies in:  
+- **Frontend:** JavaScript, React.js, HTML, CSS  
+- **Backend:** Node.js, Express  
+- **Other Skills:** REST APIs, TypeScript, Python  
 
-## WAKATIME
+This space is where I document my journey through coding challenges, real-world projects, and contributions to open-source. I thrive on continuous learning and strive to create meaningful, impactful solutions.  
+
+Feel free to explore my repositories and connect with me! 😊  
+
+---
+
+## 🛠️ Technologies & Tools  
+- **Languages:** JavaScript, TypeScript, Python  
+- **Libraries & Frameworks:** React.js, Node.js, Express  
+- **Version Control:** Git, GitHub  
+- **Tools:** VS Code, Chrome DevTools  
+- **Other:** SCSS, REST APIs  
+
+---
+
+
+## 📊 My GitHub & WakaTime Stats
+
+### **WakaTime Activity**
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -64,3 +81,37 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
+---
+
+## 🌟 Coding Challenges & Platforms  
+I regularly participate in coding challenges to improve my skills and explore new algorithms. Check out my profiles on these platforms:  
+
+- [**LeetCode**](https://leetcode.com)  
+- [**HackerRank**](https://www.hackerrank.com)  
+- [**Codewars**](https://www.codewars.com)  
+- [**freeCodeCamp**](https://www.freecodecamp.org)  
+- [**Exercism**](https://exercism.io)  
+
+---
+
+## 🚀 Languages & Projects  
+I mostly code in **JavaScript**, followed by:  
+- **TypeScript**  
+- **Python**  
+- **HTML**  
+
+---
+
+## 🌟 Fun Facts  
+- **Favorite Time to Code:** Evenings & weekends  
+- **Operating System:** macOS  
+- **Continuous Learner:** Always exploring new tools & technologies  
+
+---
+
+## 💬 Connect with Me!  
+Let’s collaborate and build something amazing together. Feel free to drop by and say hi! 😊  
+
+
