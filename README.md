@@ -88,11 +88,18 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ## 🌟 Coding Challenges & Platforms  
 I regularly participate in coding challenges to improve my skills and explore new algorithms. Check out my profiles on these platforms:  
 
-- [**LeetCode**](https://leetcode.com)  
-- [**HackerRank**](https://www.hackerrank.com)  
-- [**Codewars**](https://www.codewars.com)  
-- [**freeCodeCamp**](https://www.freecodecamp.org)  
-- [**Exercism**](https://exercism.io)  
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/srazeen)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/razeen_m_shaikh)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/razeen)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)]([https://exercism.io](https://exercism.org/profiles/Razeen-Shaikh))&nbsp;&nbsp;
+[![](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/razeen)
+
+---
+
+## 🌍 Learning Languages  
+I'm also passionate about learning new languages to expand my horizons! Currently, I'm learning:
+
+[![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/razeen_shaikh)
 
 ---
 
