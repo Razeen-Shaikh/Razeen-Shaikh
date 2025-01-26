@@ -3,9 +3,9 @@
 Welcome to my GitHub profile!  
 
 I’m a **Full-Stack Developer** passionate about building efficient and scalable solutions. My expertise lies in:  
-- **Frontend:** JavaScript, React.js, HTML, CSS  
-- **Backend:** Node.js, Express  
-- **Other Skills:** REST APIs, TypeScript, Python  
+- **Frontend:** JavaScript, React.js, HTML, CSS, Angular, TypeScript
+- **Backend:** Node.js, Express, Python, REST APIs
+- **Other Skills:** Jasmine
 
 This space is where I document my journey through coding challenges, real-world projects, and contributions to open-source. I thrive on continuous learning and strive to create meaningful, impactful solutions.  
 
