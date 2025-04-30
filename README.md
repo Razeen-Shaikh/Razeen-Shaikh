@@ -28,8 +28,8 @@ Feel free to explore my repositories and connect with me! 😊
 
 ## 🌍 Connect with Me!
 
-[![Email](https://img.shields.io/badge/Email-Email%40example.com-orange?style=for-the-badge)](mailto:Email@example.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/razeen-shaikh/)
+[![Email](https://img.shields.io/badge/Email-razeen9796@outlook.com-orange?style=for-the-badge)](mailto:razeen9796@outlook.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shaikhrazeen/)
 
 ---
 
@@ -84,5 +84,5 @@ I'm also passionate about learning new languages to expand my horizons! Currentl
 
 ## 🌟 Fun Facts  
 - **Favorite Time to Code:** Evenings & weekends  
-- **Operating System:** macOS  
+- **Operating System:** macOS, Windows & Linux (Ubuntu)
 - **Continuous Learner:** Always exploring new tools & technologies  
