@@ -3,9 +3,12 @@
 Welcome to my GitHub profile!  
 
 I’m a **Full-Stack Developer** passionate about building efficient and scalable solutions. My expertise lies in:  
-- **Frontend:** JavaScript, React.js, HTML, CSS, Angular, TypeScript
-- **Backend:** Node.js, Express, Python, REST APIs
-- **Other Skills:** Jasmine
+- **Frontend Development:** React.js, Angular, HTML5, CSS3, TypeScript, JavaScript (ES6+), SCSS  
+- **Backend Development:** Node.js, Express.js, Python (Flask), REST API design  
+- **Testing & Debugging:** Jasmine, Chrome DevTools, Unit & Integration Testing  
+- **Full-Stack Integration:** Building scalable, responsive apps from frontend to backend  
+- **Version Control & CI/CD:** Git, GitHub, GitHub Actions  
+ 
 
 This space is where I document my journey through coding challenges, real-world projects, and contributions to open-source. I thrive on continuous learning and strive to create meaningful, impactful solutions.  
 
@@ -14,11 +17,19 @@ Feel free to explore my repositories and connect with me! 😊
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Languages:** JavaScript, TypeScript, Python  
-- **Libraries & Frameworks:** React.js, Node.js, Express  
-- **Version Control:** Git, GitHub  
-- **Tools:** VS Code, Chrome DevTools  
-- **Other:** SCSS, REST APIs  
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS  
+- **Frontend Libraries & Frameworks:** React.js, Angular, Tailwind CSS, SCSS  
+- **Backend:** Node.js, Express.js, Python  
+- **Databases:** MongoDB, PostgreSQL (basics), Firebase (basics)  
+- **Dev Tools:** VS Code, Postman, GitHub, Chrome DevTools  
+- **Others:** REST APIs, JSON, EJS, Jasmine  
+
+---
+
+## 🌍 Connect with Me!
+
+[![Email](https://img.shields.io/badge/Email-Email%40example.com-orange?style=for-the-badge)](mailto:Email@example.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/razeen-shaikh/)
 
 ---
 
@@ -33,18 +44,51 @@ I regularly participate in coding challenges to improve my skills and explore ne
 
 ---
 
-## 🌍 Learning Languages  
-I'm also passionate about learning new languages to expand my horizons! Currently, I'm learning:
+## 🏆 GitHub Trophies
 
-[![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/razeen_shaikh)
+<img src="https://github-profile-trophy.vercel.app/?username=Razeen-Shaikh&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories"/>
 
 ---
 
-## 🚀 Languages & Projects  
-I mostly code in **JavaScript**, followed by:  
-- **TypeScript**  
-- **Python**  
-- **HTML**  
+## 📈 GitHub Stats & Activity
+
+<a href="https://github.com/Razeen-Shaikh">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&show_icons=true&theme=radical&count_private=true&hide_title=false" />
+</a>
+<a href="https://github.com/Razeen-Shaikh">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&layout=compact&theme=radical&hide_title=false" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Razeen-Shaikh">
+  <img width="96%" src="https://streak-stats.demolab.com?user=Razeen-Shaikh&theme=radical&hide_border=false" />
+</a>
+
+---
+
+## ⏱️ Weekly Development Breakdown
+
+<!-- Wakatime stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=razeen&theme=radical&layout=compact" />
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/srazeen/srazeen/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/srazeen/srazeen/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/srazeen/srazeen/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🚀 Learning Languages  
+
+I'm also passionate about learning new languages to expand my horizons! Currently, I'm learning:
+
+[![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/razeen_shaikh)
 
 ---
 
@@ -52,10 +96,3 @@ I mostly code in **JavaScript**, followed by:
 - **Favorite Time to Code:** Evenings & weekends  
 - **Operating System:** macOS  
 - **Continuous Learner:** Always exploring new tools & technologies  
-
----
-
-## 💬 Connect with Me!  
-Let’s collaborate and build something amazing together. Feel free to drop by and say hi! 😊  
-
-
