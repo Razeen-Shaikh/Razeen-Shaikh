@@ -48,10 +48,8 @@ I regularly participate in coding challenges to improve my skills and explore ne
 
 ## 📈 GitHub Stats
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&layout=compact&theme=radical&hide_title=false" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Shaikh&layout=compact&theme=radical&hide_title=false" />&nbsp;&nbsp;
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Razeen-Shaikh&show_icons=true&theme=radical&count_private=true&hide_title=false" />
-
-<br/>
 
 <img width="96%" src="https://streak-stats.demolab.com?user=Razeen-Shaikh&theme=radical&hide_border=false" />
 
