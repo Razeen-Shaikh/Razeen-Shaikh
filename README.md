@@ -16,12 +16,6 @@ I specialize in building full-stack applications with a focus on:
 
 ---
 
-## 🌐 My DevCard
-
-[![Razeen Shaikh's Dev Card](https://api.daily.dev/devcards/v2/KtlFw0FujWknD3PP5g8Dl.png?type=wide&r=6kd)](https://app.daily.dev/razeenshaikh)
-
----
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shaikhrazeen/)
