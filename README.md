@@ -34,12 +34,6 @@ I regularly participate in coding challenges to improve my skills and explore ne
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Razeen-Shaikh&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories)
-
----
-
 ## 🚀 Learning New Languages
 
 Currently, I'm learning:
