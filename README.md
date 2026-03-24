@@ -34,14 +34,6 @@ I regularly participate in coding challenges to improve my skills and explore ne
 
 ---
 
-## 🚀 Learning New Languages
-
-Currently, I'm learning:
-
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/razeen_shaikh)
-
----
-
 ## 🌟 Fun Facts
 
 - **Favorite Time to Code**: Everyday
