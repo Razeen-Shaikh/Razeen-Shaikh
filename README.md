@@ -67,7 +67,7 @@ I build scalable web applications, developer-focused tools, and learning platfor
 
 # 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Razeen%20Shaikh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikhrazeen/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Razeen%20Shaikh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrazeenzohra)
 
 ---
 
