@@ -1,6 +1,7 @@
-# Hi there 👋 I'm Razeen 👨‍💻
-
-### Full-Stack Developer • Problem Solver • Accessibility Advocate • Lifelong Learner
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=70A5FD&center=false&vCenter=true&width=720&lines=Hi%2C+I'm+Razeen+Shaikh;Full-Stack+Developer;Accessibility+Advocate;Always+learning+%26+building">
+  <img alt="Hi, I'm Razeen Shaikh" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Razeen+Shaikh;Full-Stack+Developer;Accessibility+Advocate;Always+learning+%26+building">
+</picture>
 
 I build scalable web applications, developer-focused tools, and learning platforms with a strong emphasis on performance, accessibility, and clean architecture. I enjoy turning complex ideas into intuitive digital experiences and continuously pushing my engineering skills forward. 🚀
 
