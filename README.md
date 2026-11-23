@@ -68,7 +68,7 @@ I build scalable web applications, developer-focused tools, and learning platfor
 
 # 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Razeen%20Shaikh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrazeenzohra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Razeen%20Shaikh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrazeenshaikh)
 
 ---
 
@@ -78,7 +78,7 @@ I build scalable web applications, developer-focused tools, and learning platfor
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/razeen_m_shaikh)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/razeen)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Razeen-Shaikh)
-[![Code360](https://img.shields.io/badge/Code360-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/razeen)
+[![Code360](https://img.shields.io/badge/Code360-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/razeenshaikh)
 
 ---
 
